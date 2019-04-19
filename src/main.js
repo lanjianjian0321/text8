@@ -1,7 +1,6 @@
-require.config({
+requirejs.config({
     baseUrl: "/js",
     paths: {
-        "index": "index",
         "bscroll": "better-scroll"
     }
 
